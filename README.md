@@ -13,5 +13,5 @@ Project index
 (refer to the serial number below to check work.)
 
 0. Consumer behaviour differences for Cyclistic- a fictitious bike share company. (Part of Google Capstone project) - 09 September 2022.
-
 1. Netflix shows added between 2008 and 2021 (Cleaning and Visualization project)- 29 September 2022.
+2. Data processing, cleaning of superstore data for PowerBI visualization
